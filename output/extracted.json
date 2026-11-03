@@ -1,1 +1,44 @@
-
+{
+    "change_order_number": {
+        "value": "CO-102",
+        "confidence": 0.9,
+        "evidence": "Change Order Number: CO-102"
+    },
+    "project_name": {
+        "value": "Office Renovation Project",
+        "confidence": 0.9,
+        "evidence": "Project Name: Office Renovation Project"
+    },
+    "contractor": {
+        "value": "ABC Construction Ltd.",
+        "confidence": 0.9,
+        "evidence": "Contractor: ABC Construction Ltd."
+    },
+    "change_date": {
+        "value": "15 October 2026",
+        "confidence": 0.9,
+        "evidence": "Change Order Date: 15 October 2026"
+    },
+    "change_description": {
+        "value": "Additional electrical installation, including lighting fixtures, wiring and power outlets. This work is required to meet the updated electrical specifications of the office renovation project.",
+        "confidence": 0.9,
+        "evidence": "Change Description: Additional electrical installation, including lighting fixtures, wiring and power outlets."
+    },
+    "change_amount": {
+        "value": 3000.0,
+        "confidence": 0.9,
+        "evidence": "Change Amount: $3,000.00"
+    },
+    "original_contract_amount": {
+        "value": 50000.0,
+        "confidence": 0.9,
+        "evidence": "Original Contract Amount: $50,000.00"
+    },
+    "revised_contract_amount": {
+        "value": 53000.0,
+        "confidence": 0.9,
+        "evidence": "Revised Contract Amount: $53,000.00"
+    },
+    "validation_warnings": [],
+    "validation_status": "passed"
+}
